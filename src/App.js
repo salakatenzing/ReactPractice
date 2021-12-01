@@ -4,20 +4,19 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+      
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Practice run
         </p>
         <a
-          className="App-link"
-          href="https://reactjs.org"
+          className="ReactVideoLink"
+              href="https://reactjs.orghttps://www.youtube.com/watch?v=w7ejDZ8SWv8&t=978s"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          React tutorial video
         </a>
-      </header>
+      
     </div>
   );
 }
